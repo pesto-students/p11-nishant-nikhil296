@@ -14,20 +14,20 @@
 - 
 
 ### 3. What is web hosting, and what are the different types of hosting services available for websites?
-- Web Hosting refers to storing a web app(with all its related files) on a computer that somewhere in the world and is connected to the internet. that remote computer serves the website to user when requested via internet using necessary protocols.
+- Web Hosting refers to storing a web app(with all its related files) on a computer that is somewhere in the world and is connected to the internet. That remote computer serves the website to user when requested via internet using necessary protocols.
 - There are different types of hosting services available for websites :-
     1. `Shared hosting` : two or more app/websitess share the same resource on the server.
     2. `Cloud hosting` : it involves hosting a website on a network of interconnected servers that work together to provide high availability and scalability. 
     3. `Managed hosting` : when the technical aspect of our app/website is handled by the hosting service provider like AWS. 
     4. `Virtual private server hosting` : it involves dividing a physical server into multiple virtual servers, each of which operates as a standalone server with its own operating system and resources.
-    5. `Dedicated hosting` : With dedicated hosting, a website is hosted on a single physical server that is dedicated solely to that website
+    5. `Dedicated hosting` : With dedicated hosting, a website is hosted on a single physical server that is dedicated solely to that website.
 
 ### 4. What is scaling, and why is it important for web applications? How does scaling differ for vertical and horizontal scaling?
 - Scaling is the process of increasing the capacity of a web application to handle more traffic,
 users or data.
 - Two primary ways to scale our website is :-
     1. `Vertical Scaling` : incresing the CPU capacity, memory or storage etc of a single server or virtual machine.
-    2. `Horizontal Scaling` : increasing the number of servers or virtual machines to distribute the traffic accross multiple servers. 
+    2. `Horizontal Scaling` : increasing the number of servers or virtual machines to distribute the traffic accross multiple servers.
 
 ### 5. What is SEO (Search Engine Optimization), and how can web developers optimize their websites for better search engine rankings?
 - SEO (Search Engine Optimization) is the process of optimizing a website to improve its visibility and ranking in search engine results pages (SERPs).
